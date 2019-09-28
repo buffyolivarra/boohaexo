@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aungiilie.colorcollect.cc/sitemap.xml
